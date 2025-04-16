@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E5C07B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jean+Antonio;I+study+analysis+and+systems+development+at+Ampli;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saittu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="195" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saittu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="195" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saittu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saittu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Saittu&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
